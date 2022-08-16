@@ -1,5 +1,5 @@
+import PageLayout from "@/ui/components/PageLayout";
 import { NextPage } from "next";
-import PageLayout from "../../components/PageLayout";
 
 const Tinder: NextPage = () => {
   return (
